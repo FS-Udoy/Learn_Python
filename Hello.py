@@ -1,0 +1,7 @@
+print("***************")
+print("   PYTHON")
+print("***************")
+print("Hello,Python!")
+print("My Name Is Udoy.")
+print("I am learning python.")
+print("Welcome to my Python Journey")
