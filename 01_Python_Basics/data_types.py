@@ -17,3 +17,9 @@ height = 5.9
 print(cgpa)
 print(price)
 print(height)
+
+
+#String data type
+print("Here are some String Data type")
+name="Udoy"
+print(name)
